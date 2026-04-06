@@ -25,8 +25,8 @@ const Navbar = () => {
     >
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
         <a href="#" className="font-['Space_Grotesk'] text-xl font-bold tracking-tight">
-          <span className="text-primary">Arnav</span>
-          <span className="text-foreground">Verma</span>
+          <span className="text-primary">Cyro</span>
+          <span className="text-foreground">Byte</span>
           <span className="text-primary">.</span>
         </a>
         <div className="hidden gap-1 md:flex">
