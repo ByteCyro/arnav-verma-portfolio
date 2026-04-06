@@ -36,7 +36,7 @@ const projects = [
     image: epancardImg,
     accent: "from-blue-500/20 via-cyan-500/10 to-transparent",
   },
-  {
+  /*{
     title: "Fake SSN Generator",
     description:
       "A developer utility tool that generates random, realistic-looking Social Security Numbers for software testing and form validation.",
@@ -44,7 +44,7 @@ const projects = [
     link: "https://fakessngenerator.com/",
     image: fakessnImg,
     accent: "from-emerald-500/20 via-green-500/10 to-transparent",
-  },
+  },*/
   {
     title: "Agri Loan Calculator",
     description:
