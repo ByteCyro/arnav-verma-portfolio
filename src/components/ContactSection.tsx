@@ -46,7 +46,7 @@ const ContactSection = () => (
         viewport={{ once: true }}
         transition={{ duration: 0.5, delay: 0.3 }}
       >
-        {[Github, Linkedin, Twitter].map((Icon, i) => (
+        {[Github, Linkedin, Twitter,Discord].map((Icon, i) => (
           <a key={i} href="#" className="rounded-full border border-border/50 p-3.5 text-muted-foreground transition-all hover:border-primary/50 hover:bg-primary/5 hover:text-primary hover:scale-110">
             <Icon size={18} />
           </a>
