@@ -56,7 +56,7 @@ const HeroSection = () => (
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
       >
-        Arnav Verma — Full-stack developer with 3.5 years of experience crafting fast, scalable, and SEO-optimized digital products.
+        CyroByte aka Arnav Verma — Full-stack developer with 3.5 years of experience crafting fast, scalable, and SEO-optimized digital products.
       </motion.p>
 
       <motion.div
